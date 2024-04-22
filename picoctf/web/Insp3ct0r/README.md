@@ -17,12 +17,12 @@ Once we open the link, we are greeted with a seemingly basic website. The title 
 ...
 ```
 Then, we checked `mycss.css` file and found second part of the flag
-```html
+```css
 ...
 /* You need CSS to make pretty pages. Here's part 2/3 of the flag: t3ct1ve_0r_ju5t */
 ```
 Lastly, after inspecting another file `myjs.js` we found last part of the flag
-```html
+```js
 ...
 /* Javascript sure is neat. Anyways part 3/3 of the flag: _lucky?2e7b23e3} */
 ```
